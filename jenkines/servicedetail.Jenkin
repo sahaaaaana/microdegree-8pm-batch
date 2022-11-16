@@ -28,8 +28,8 @@ pipeline{
             stage('Build-Disk details'){
                 steps{
         sh '''
-                    echo "TODAYS DATE"
-                    date
+                    echo "CALENDER"
+                    2021 cal
         '''
                 }
             }
