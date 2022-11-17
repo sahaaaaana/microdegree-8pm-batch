@@ -28,9 +28,9 @@ pipeline{
             stage('Build-Disk details'){
                 steps{
         sh '''
-                    echo "TODAYS DATE"
-                    date
-        '''
+                    echo "DISK DETAILS"
+                     du | tail -5
+                     '''
                 }
             }
      stage('Build-Process command'){
