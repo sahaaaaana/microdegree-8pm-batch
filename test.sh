@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "namaksakra"
+echo "practice lets check how it works"
