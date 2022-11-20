@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "namaksakra"
+echo "want to pull this file"
