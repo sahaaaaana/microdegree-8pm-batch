@@ -1,6 +1,6 @@
 #!/bin/bas
 
-echo "practice lets check how it works"
-echo "pull file edited lets push
+echo "2nd time practice"
 
-hi hi hi:"
+echo "2nd practice successfull"
+
