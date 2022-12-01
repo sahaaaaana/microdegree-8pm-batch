@@ -64,7 +64,7 @@ from :-Install using native package management use commands
 
 12) minikube status
 
-13) minikube stop
+13) *minikube stop (Not Required)
 
 14) kubectl cluster-info
 
