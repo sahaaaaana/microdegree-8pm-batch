@@ -7,5 +7,5 @@
   tasks:
   - name: clone a repo
     git: 
-      repo: https://yankils:{{ password }}@github.com/yankils/vault.git
+      repo: https://github.com/ManojKRISHNAPPA/microdegree-8pm-batch.git
       dest: /opt/ansadmin/test-vault
