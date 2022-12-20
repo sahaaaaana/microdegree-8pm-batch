@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "file2"
+echo "file1"
 
