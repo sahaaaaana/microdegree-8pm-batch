@@ -3,7 +3,7 @@ pipeline{
        stages{
           stage ('first build'){
                step{
-                  sh " echo build is successful"
+                  sh " echo build is success"
 }
 }
 }
