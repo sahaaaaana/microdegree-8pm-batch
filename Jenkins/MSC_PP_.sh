@@ -1,6 +1,6 @@
 pipeline{
 agent{
-label 'Node1'
+label 'Node_1'
 }
 stages{
 stage ('first phase'){
