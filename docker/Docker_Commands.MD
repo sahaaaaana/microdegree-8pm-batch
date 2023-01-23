@@ -65,3 +65,14 @@ docker rm <container_id>
 ```sh
 docker exec -it <container_Name> /bin/bash
 ```
+13. Tag the images and push 
+
+```sh
+docker tag v1:latest manoj14061996/v1
+```
+
+14. Image push 
+
+```sh
+docker push manoj14061996/v1
+```
