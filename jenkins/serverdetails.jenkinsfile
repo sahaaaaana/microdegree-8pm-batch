@@ -20,7 +20,7 @@ pipeline{
             stage('Build-CPU details'){
                 steps{
         sh '''
-                    echo "CPU DETAILS"
+                    echo "CPU DETAIS"
                     lscpu
         '''
                 }
