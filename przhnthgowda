@@ -1,10 +1,10 @@
 pipeline{
-    agent any
-       stages{
-         stage ('first build'){
-           step{
-             sh "uptime"
-}
-}
-}
+  agent any
+     stages{
+        stage ('first build'){
+          steps{
+            sh "echo hello prashanth"
+         }
+       }
+     }
 }
