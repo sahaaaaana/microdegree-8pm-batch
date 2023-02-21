@@ -70,6 +70,6 @@ from :-Install using native package management use commands
 
 15) minikube ip
 
-16) minikube ssh
+16) minikube ssh (it will go to container)
 
 17) docker ps
