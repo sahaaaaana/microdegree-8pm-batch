@@ -1,7 +1,7 @@
 pipeline{
     agent any
         stages{
-            stage('Build-System details'){
+            stage('Build-Systems details'){
                 steps{
         sh '''
                     echo '"SYSTEM DETAILS"'
